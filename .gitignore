@@ -1,0 +1,19 @@
+# Vault files (NEVER commit!)
+.replace_the_reused/
+vault.db
+.master_hash
+
+# Python
+venv/
+env/
+__pycache__/
+*.pyc
+.env
+
+# Node
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
